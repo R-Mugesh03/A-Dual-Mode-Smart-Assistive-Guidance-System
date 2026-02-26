@@ -1,5 +1,5 @@
 # A Dual Mode Smart Assistive Guidance System  
   
 Developer: R Mugesh  
-Email: mail.rmugeshofficial@gmail.com  
-GitHub: https://github.com/RMugesh03 
+Email: rmugeshofficial@gmail.com  
+GitHub: https://github.com/R-Mugesh03 
